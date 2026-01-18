@@ -1,0 +1,10 @@
+com\app\activity05\JakartaRestConfiguration.class
+com\app\activity05\controller\DispatcherServlet.class
+com\app\activity05\entity\Artist.class
+com\app\activity05\service\AlbumDAO.class
+com\app\activity05\entity\Album.class
+com\app\activity05\entity\Track.class
+com\app\activity05\utility\HibernateUtil.class
+com\app\activity05\entity\User.class
+com\app\activity05\resources\JakartaEE10Resource.class
+com\app\activity05\service\UserDAO.class
